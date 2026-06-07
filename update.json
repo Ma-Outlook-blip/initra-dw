@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "1.0.7.12",
+    "version":  "1.0.7.13",
     "downloadUrl":  "https://git.justw.tf/LightZirconite/initra-dw/raw/branch/main/releases/agent-payload.zip",
-    "sha256":  "c06c95e5c054a56b38cf17ef552cf774edadcb78bd3ebdf8b3b3cf8c4fce1ec5",
-    "publishedAtUtc":  "2026-06-07T09:44:43.7893992+00:00",
+    "sha256":  "bb16e8287528554664d6981745198d411d4da6b0d250960a35e29316c34b4c32",
+    "publishedAtUtc":  "2026-06-07T09:52:00.6521968+00:00",
     "channel":  "stable",
     "notes":  "Stable payload.",
-    "sizeBytes":  38667104,
+    "sizeBytes":  38666819,
     "signatureAlgorithm":  "RSASSA-PKCS1-v1_5-SHA256",
-    "signature":  "cWNV4/EmOD9uY7BkPY8eesmffsEMotS2rgF5cJDr6Rh4bS3z/a1soq+c66H9ZmCBIWvemAB1hXkl4lsGpJnQvYvElJy75EUuKUhyRDUCEfCpVyTjO1SytYluQZpwdjHM2m84vThTK6CqKXHuCUGs96QKGlfOc2v56gszccahWo/tu55VT16lpmIawWcy7GPHxK8i+EwJJ7G1uDHIpixekq86TjuNkF0XAv8l2jFYE6mfsHL8CZsT1SZnRSfigPOt6UsIYDIqSejbdScYp6E+Bkt3ZcHYPHByYSKtIPP01JjzR3S8aiILgeylzJWXV9Dr5URKAKtGUGN5A7c0opOefAyHywzceXFd6FSfVZhqO6u6EgJ6USNLaZjajZEmW4AZ2MP1loZWLtgLvLK9s25AS3MNgM+gtEIwXNQnl9/wzVDUvM8B/geeRuLHBZBdtbwhMVkHPG88+SeG1HuTNmdHrU/pnwoxtmDyxpgbkrDaZ8EMNmTBL1mBByPsjpASqoTE"
+    "signature":  "WqpeQ5/hpg8wohmdpZDILbWdvkEJys88VP7DiutqtDIR0k9CqzO5xdcOZ74VA0kRQ0oDGPA45vpU/SL+/Oy57gUQu7+/TvoJDSHszOmaVhKGsEW15EMLMZrxvLgX0PaelAAoKrIu5/irS5p3Knzj4kGZUJ4ZEC/wqsSAwrkT2BAOjag8juIbPb7wgpZf5S/3LXa52BogR3kd4C2FR31d6mxdJuHVDu3PkOmk0NPWTnY9gXpkrtJC8zwk/XxqKwG13WD83LrxXv8XK61pLZN97lxzM1h5sispYaBuJskyoj+Uwre1w4MP2EBKKRA0yP5T8nHyjsKXN1AAbKU4YmCBZvj80nwZkVOlRbo7KOEtyqznTlbO0DkBlcg7F+KvwM0rWFciy+8rhXUFy2R2iynHKDTCd0wrc9uuynQkTeznVHU+bQgISGyDfAnDD8W4A0hLmhbRQyP6WF4Lci25SCflBC6yn8RT9Wmm+27P/M3289baJzfaY6QEzXXhsLLXY7Dx"
 }
